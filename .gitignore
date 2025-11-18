@@ -31,10 +31,9 @@ json_testing
 *.csv
 new_dataset_tests.txt
 # Ignore trained models and pickled files
-*.pkl
+
 linear_regression_model/api/best_model.pkl
-linear_regression_model/api/scaler.pkl
-linear_regression_model/api/feature_names.pkl
+
 
 
 
