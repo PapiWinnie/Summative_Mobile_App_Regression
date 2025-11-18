@@ -57,8 +57,7 @@ class _RentFormScreenState extends State<RentFormScreen> {
     'Wi-Fi',
     'Chandelier',
     'Dining Area',
-    'Balcony',
-    'Apartment'
+    'Balcony'
   ];
   final List<String> _regionOptions = ['Downtown', 'Suburbs', 'Campus Area', 'City Center'];
   final List<String> _localityOptions = ['North', 'South', 'East', 'West', 'Central'];
